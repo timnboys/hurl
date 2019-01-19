@@ -3,7 +3,7 @@ GEM
   specs:
     addressable (2.3.5)
     coderay (0.8.357)
-    curb (0.7.18)
+    curb (0.9.7)
     faraday (0.8.8)
       multipart-post (~> 1.2.0)
     faraday_middleware (0.9.0)
@@ -56,7 +56,7 @@ PLATFORMS
 
 DEPENDENCIES
   coderay (~> 0.8.357)
-  curb (~> 0.7.8)
+  curb (~> 0.9.7)
   mustache (~> 0.11.2)
   pg
   redis
